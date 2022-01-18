@@ -48,7 +48,8 @@
 }
 
 .noli{
-  list-style-type: decimal
+  list-style-type: decimal;
+  padding: 20px;
 }
 
 .columns__1-4{
@@ -74,4 +75,8 @@ table, td, th {
 
 .sbox{
   border: 2px solid rgb(82, 144, 168)
+}
+
+.ul{
+  border-bottom: 2px solid rgb(68, 150, 243);
 }
