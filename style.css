@@ -89,3 +89,19 @@ table, td, th {
 .ul{
   border-bottom: 2px solid rgb(68, 150, 243);
 }
+
+body{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#com{
+  font-size: 15px;
+}
+
+#bimg{
+  width: 30%;
+  margin: 3px 4px 3px 4px;
+  padding-bottom: 5px;
+}
